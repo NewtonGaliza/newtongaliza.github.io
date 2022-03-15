@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Python developer with focus on data science, novel writer and game designer of Nippon Heroes <a class="highlight-link" href="https://github.com/NewtonGaliza target="_blank" rel="noreferrer"> Github </a>
+about_me_description: Python developer with focus on data science, novel writer and game designer of Nippon Heroes
 
 # SKILLS SECTION
 # show_skills_card:
@@ -59,7 +59,7 @@ cv_download_link: https://example.com/
 # show_projects_card:
 # > setting this to true, will display the Projects section
 # > setting this to false, will omit the Projects section
-show_projects_card: true
+show_projects_card: false
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
